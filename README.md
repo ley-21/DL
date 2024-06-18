@@ -14,11 +14,6 @@
 - `make_csv.py`: code for making csv file before train/eval/infer
 
 <br>
-
-### For download directory ###
-<a>https://docs.google.com/spreadsheets/d/1IOMaqyrk64KeSpuynB8OJTY740jMw0IxNIsqouAhEGY/edit?gid=0#gid=0<a>
-
-<br>
    
 ### Requirement
 - pip install efficientnet_pytorch
