@@ -4,7 +4,7 @@
 <br>
 
 ### Description
-![image](https://github.com/ley-21/DL/assets/107639414/d858dbac-c7dc-4322-b8b9-cd96c23ae42a)
+![image](https://github.com/ley-21/DL/assets/107639414/3dbb8ac2-0c41-4dc0-802a-0dc49e9e3dcc)
 - `train_config.yaml`: hyperparameter
 - `dataset`: folder with images folder and csv file  
 - `eval.py`: code for evaluation
@@ -27,7 +27,7 @@
   
 ### For Evaluation & Inference
 - make_csv.py에서 test dataset의 path, gender, age 정보를 csv 파일로 만든 후 dataset 폴더에 저장<br>
-(csv 파일의 이미지 경로대로 test dataset 경로 지정)
+(csv 파일의 이미지 경로대로 test dataset 경로 지정 ex) ../dataset/test/Aihub1_00009807_Female_17_110)
 - eval.py, infer.py 내의 data 로드시 csv 파일 경로를 넣고 실행
 
 
